@@ -1,2 +1,3 @@
-# Robotron-2000
- Monte seu robô para a batalha
+# robotron-2000
+
+Projeto desenvolvido com javascript, manipulando o DOM
